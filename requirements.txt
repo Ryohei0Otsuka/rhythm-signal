@@ -1,0 +1,6 @@
+PySide6
+pyqtgraph
+numpy
+soundfile
+# Auto BPMしたいなら追加
+# librosa
